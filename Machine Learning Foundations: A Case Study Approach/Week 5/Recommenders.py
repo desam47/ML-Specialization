@@ -174,7 +174,7 @@ class item_similarity_recommender_py():
         ######################################################
         all_songs = self.get_all_items_train_data()
         
-        print("no. of unique songs in the training set: %d" % len(all_songs))
+        print("No. of unique songs in the training set: %d" % len(all_songs))
          
         ###############################################
         #C. Construct item cooccurence matrix of size 
@@ -199,7 +199,7 @@ class item_similarity_recommender_py():
         ######################################################
         all_songs = self.get_all_items_train_data()
         
-        print("no. of unique songs in the training set: %d" % len(all_songs))
+        print("No. of unique songs in the training set: %d" % len(all_songs))
          
         ###############################################
         #C. Construct item cooccurence matrix of size 
